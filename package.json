@@ -1,7 +1,7 @@
 {
   "name": "python-virtualenv",
   "main": "./module",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Automatic Python .venv activation in current project",
   "keywords": [
     "python",
